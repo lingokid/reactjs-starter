@@ -11,7 +11,7 @@ import NotFound from './NotFound';
 import './App.css';
 
 // custom type
-import './Page';
+import Page from './Page';
 
 const App = (props) => (
   <Router>
